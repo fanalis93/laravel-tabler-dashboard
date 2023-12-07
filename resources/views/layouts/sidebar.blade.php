@@ -6,8 +6,7 @@
         </button>
         <h1 class="navbar-brand navbar-brand-autodark">
             <a href=".">
-                <img src="{{ asset('/assets/images/ava-logo.png') }}" width="110" height="32" alt="Tabler"
-                    class="">
+                <img src="" width="110" height="32" alt="Tabler" class="">
             </a>
         </h1>
         <div class="navbar-nav flex-row d-lg-none">
