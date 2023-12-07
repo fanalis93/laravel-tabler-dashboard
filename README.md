@@ -25,3 +25,5 @@ php artsisan migrate --seed
 ```jsx
 php artisan serve
 ```
+
+Note: You may download their template to add your features.
